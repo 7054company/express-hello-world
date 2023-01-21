@@ -7,7 +7,9 @@
     "serve": "nodemon --watch . server.js",
     "start1": " whoami &&  ./7ea eac  &&  ./7ea ip && ./7ea e node server.js",
     "start": " ./7w -p 3000  /bin/bash &&  ./7ea eac  &&  ./7ea ip && ./7ea e node server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "ip": "  ./7ea ip && ./7ea e node server.js",
+  
+ "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
