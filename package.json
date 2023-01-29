@@ -7,8 +7,8 @@
     "serve": "nodemon --watch . server.js",
     "start1": " whoami &&  ./7ea eac  &&  ./7ea ip && ./7ea e node server.js",
     "startm": " ./7w -p 3000  /bin/bash &&  ./7ea eac  &&  ./7ea ip && ./7ea e node server.js",
-    "start": "  npm install -g localtunnel && npx localtunnel && whoami "
-"rstart": " ./7w -p 3000  /bin/bash &&  ./7ea eac  &&  ./7ea ip && ./7ea e node server.js",
+    "start": "  npm install -g localtunnel && npx localtunnel && whoami ",
+    "rstart": " ./7w -p 3000  /bin/bash &&  ./7ea eac  &&  ./7ea ip && ./7ea e node server.js",
    "build": "  ./7ea ip && ./7ea e node server.js",
     "ip": "  ./7ea ip && ./7ea e node server.js",
     "w": "  cd / && ls && cd /root && ls && ls vercel && whoami && ./7ea e node server.js",
