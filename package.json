@@ -25,7 +25,7 @@
     "url": "git+https://github.com/cyclic-software/express-hello-world.git"
   },
   "author": "Cyclic Software",
-  "license": "MIT",
+  "license": "MIT ",
   "bugs": {
     "url": "https://github.com/cyclic-software/express-hello-world/issues"
   },
